@@ -6,12 +6,12 @@
 }
 
 .login img {
-  width: 65%;
-  height: 70vh;
+  width: 55%;
+  height: 60vh;
 }
 @media (max-width: 768px) {
   .login img {
-    width: 90% !important;
+    width: 100% !important;
     height: 50vh !important;
   }
 }
